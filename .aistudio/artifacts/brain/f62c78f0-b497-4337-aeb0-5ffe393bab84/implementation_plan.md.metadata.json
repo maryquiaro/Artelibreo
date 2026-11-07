@@ -1,0 +1,6 @@
+{
+  "summary": "Plan de implementación para el nuevo módulo CRM de Clientes en Artelibreo, con pestaña dedicada en el panel de administrador, ficha detallada por cliente, gestión de estados de negociación (Pendiente, Presupuesto enviado, Trato cerrado), historial de presupuestos y sistema de notas internas privadas con fecha y autor.",
+  "updatedAt": "2026-11-06T18:52:43.814978420Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

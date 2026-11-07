@@ -1,0 +1,6 @@
+{
+  "name": "Artelibreo - Pintura y Restauración de Fachadas",
+  "description": "Plataforma profesional para solicitud y gestión de presupuestos de pintura de fachadas, portafolio de obras, chat directo y seguimiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
